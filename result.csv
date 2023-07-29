@@ -1,0 +1,7 @@
+id,module,name,file,doc,markers,status,message,duration
+test_calculator.py::test_addition,test_calculator,test_addition,test_calculator.py,,,passed,,0.0011202000023331493
+test_calculator.py::test_subtraction,test_calculator,test_subtraction,test_calculator.py,,,passed,,0.0005690999969374388
+test_calculator.py::test_multiplication,test_calculator,test_multiplication,test_calculator.py,,,passed,,0.0004015000013168901
+test_calculator.py::test_division,test_calculator,test_division,test_calculator.py,,,passed,,0.0002969999986817129
+test_calculator.py::test_division_by_zero,test_calculator,test_division_by_zero,test_calculator.py,,,passed,,0.009831700001086574
+test_calculator.py::test_sqrt,test_calculator,test_sqrt,test_calculator.py,,,passed,,0.002424600002996158
